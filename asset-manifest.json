@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/jaydeep-portfolio/static/css/main.72ac8bc4.css",
-    "main.js": "/jaydeep-portfolio/static/js/main.079efc17.js",
+    "main.js": "/jaydeep-portfolio/static/js/main.3d0f6b2d.js",
+    "static/media/Profile.png": "/jaydeep-portfolio/static/media/Profile.984893e3fd9c9fb9f796.png",
     "index.html": "/jaydeep-portfolio/index.html",
     "main.72ac8bc4.css.map": "/jaydeep-portfolio/static/css/main.72ac8bc4.css.map",
-    "main.079efc17.js.map": "/jaydeep-portfolio/static/js/main.079efc17.js.map"
+    "main.3d0f6b2d.js.map": "/jaydeep-portfolio/static/js/main.3d0f6b2d.js.map"
   },
   "entrypoints": [
     "static/css/main.72ac8bc4.css",
-    "static/js/main.079efc17.js"
+    "static/js/main.3d0f6b2d.js"
   ]
 }
