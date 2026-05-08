@@ -1,6 +1,7 @@
 import React, { useEffect, useRef, useState } from 'react';
 import { motion } from 'framer-motion';
 import './Hero.css';
+import heroImage from '../assets/Profile.png';
 
 const fadeUp = (delay = 0) => ({
   initial: { opacity: 0, y: 40 },
@@ -114,7 +115,7 @@ export default function Hero({ data }) {
 
               {!imageError ? (
                 <img
-                  src="/assets/Profile.png"
+                  src={heroImage}
                   alt="Jaydeep Patidar"
                   className="hero-image"
                   onError={() => setImageError(true)}
