@@ -1,7 +1,7 @@
 {
   "name": "jaydeep-portfolio",
   "version": "1.0.0",
-  "homepage": "https://jaydeep08.github.io/jaydeep-portfolio",
+  "homepage": "https://hellojaydeep.me",
   "private": true,
   "dependencies": {
     "framer-motion": "^11.0.8",
