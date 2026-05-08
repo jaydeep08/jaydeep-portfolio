@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jaydeep-portfolio/static/css/main.72ac8bc4.css",
+    "main.js": "/jaydeep-portfolio/static/js/main.079efc17.js",
+    "index.html": "/jaydeep-portfolio/index.html",
+    "main.72ac8bc4.css.map": "/jaydeep-portfolio/static/css/main.72ac8bc4.css.map",
+    "main.079efc17.js.map": "/jaydeep-portfolio/static/js/main.079efc17.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72ac8bc4.css",
+    "static/js/main.079efc17.js"
+  ]
+}
