@@ -1,7 +1,7 @@
 import React, { useEffect, useRef, useState } from 'react';
 import { motion } from 'framer-motion';
 import './Hero.css';
-import heroImage from '../../public/assets/Profile.png';
+import heroImage from '../assets/Profile.png';
 
 const fadeUp = (delay = 0) => ({
   initial: { opacity: 0, y: 40 },
